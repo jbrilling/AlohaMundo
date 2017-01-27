@@ -1,2 +1,3 @@
 # AlohaMundo
-My Aloha Mundo test repo
+Hey Braddha, you got da kine?
+Mahalo!
